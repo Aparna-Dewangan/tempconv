@@ -3,7 +3,7 @@
 A responsive temperature converter made with HTML, CSS, and JavaScript.
 
 ## Screenshot
-![Temperature Converter UI](screenshots/tempconv.png)
+![Temp Converter](screenshots/tempconv.png)
 
 ## Features
 - Celsius to Fahreneit
